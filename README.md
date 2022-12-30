@@ -1,12 +1,18 @@
-**Hello...**
-<br><br>
-![img](https://media.licdn.com/dms/image/D5616AQHTM66JF-kYjg/profile-displaybackgroundimage-shrink_350_1400/0/1670238963661?e=1677715200&v=beta&t=nDQizzNhSev0uEk34LvWF2AaJhgxcps-XEpzEr5DYw8)
+***Hello...***
+<br>
+***I'am ravi shankar singh***
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&weight=100&size=30&pause=1000&color=4662F7&width=530&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBravi+shankar+singh;%3C%2F%3E+Interested+to+learn+tech;%F0%9F%92%BB+software+engineer" alt="Typing SVG" /></a></p>
+
+<p align="center"><img src="https://media.licdn.com/dms/image/D5616AQHTM66JF-kYjg/profile-displaybackgroundimage-shrink_350_1400/0/1670238963661?e=1677715200&v=beta&t=nDQizzNhSev0uEk34LvWF2AaJhgxcps-XEpzEr5DYw8" alt=""></p>
+
+<!--![img](https://media.licdn.com/dms/image/D5616AQHTM66JF-kYjg/profile-displaybackgroundimage-shrink_350_1400/0/1670238963661?e=1677715200&v=beta&t=nDQizzNhSev0uEk34LvWF2AaJhgxcps-XEpzEr5DYw8)-->
 
 <!--<img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="" height="300" width="100%">-->
 
 
 
-***I'am ravi shankar singh***
+
 
 <!--**ravisingh9302/ravisingh9302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
