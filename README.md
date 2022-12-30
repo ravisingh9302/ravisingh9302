@@ -1,8 +1,7 @@
 ***Hello...***
 <br>
 ***I'am ravi shankar singh***
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&weight=100&size=30&pause=1000&color=4662F7&width=530&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBravi+shankar+singh;%3C%2F%3E+Interested+to+learn+tech;%F0%9F%92%BB+software+engineer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&size=45&color=58a6ff&pause=1000&vCenter=true&width=650&height=120&lines=%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BBRavi+shankar+singh;%F0%9F%94%91+Interested+to+learn+tech;%F0%9F%92%BB+Software+Engineer"/></a></p>
 
 <p align="center"><img src="https://media.licdn.com/dms/image/D5616AQHTM66JF-kYjg/profile-displaybackgroundimage-shrink_350_1400/0/1670238963661?e=1677715200&v=beta&t=nDQizzNhSev0uEk34LvWF2AaJhgxcps-XEpzEr5DYw8" alt=""></p>
 
