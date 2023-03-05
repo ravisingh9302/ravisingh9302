@@ -17,9 +17,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing B.tech cse
-- 🌱 I’m currently learning DSA
-<!--- 👯 I’m looking to collaborate on ...-->
+- 🔭 I’m currently pursuing B.tech cse.
+- 🌱 I’m currently learning DSA.
+- 🧑‍💻 I’m preparing for full stack developer.
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 <!--- 📫 How to reach me: ...-->
