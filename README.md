@@ -29,11 +29,20 @@ Here are some ideas to get you started:
 
 ### My learning:	
 - ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
-<!--* ![C](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
 + ![C](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
  ![C](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
  ![C](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-- ![C](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+ ![C](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
+ ![C](https://img.shields.io/badge/-Expressjs-333333?style=flat&logo=express)
++ ![C](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
+ ![C](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
+ ![C](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+ ![C](https://img.shields.io/badge/-Awslambda-333333?style=flat&logo=awslambda)
+ ![C](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+ ![C](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+ + ![C](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![C](https://img.shields.io/badge/-Webrtc-333333?style=flat&logo=webrtc)
+ ![C](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
  ![C](https://img.shields.io/badge/-github-333333?style=flat&logo=github)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
