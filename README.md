@@ -58,14 +58,13 @@ Here are some ideas to get you started:
 ![ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=ravisingh9302&show_icons=true&theme=radical)
 <br>
 
-### My Repo lang:	
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravisingh9302&layout=demo)
+#
 
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) -->
+
+![](https://komarev.com/ghpvc/?username=ravisingh930218&label=PROFILE+VIEWS)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ravisingh9302&theme=discord&margin-w=15 )](https://github.com/ravisingh9302)
 
 ![](https://komarev.com/ghpvc/?username=ravisingh9302&style=plastic&lebel=Visitors)
-<!-- ![Snake animation](https://github.com/ravisingh9302/Luanldm/blob/output/github-contribution-grid-snake.svg) -->
